@@ -101,7 +101,7 @@ ul {
 
 .top-banner {
     background-color: #4dadf7;
-    background-image: url(/picture/asset\ 32.png);
+    background-image: url(asset\ 32.png);
     background-size: 300px;
 }
 
@@ -177,7 +177,7 @@ ul {
 
 .feature-section {
     padding: 80px var(--padding-inline-section) 0;
-    background-image: url(/picture/asset\ 34.svg);
+    background-image: url(asset\ 34.svg);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -248,7 +248,7 @@ ul {
     position: relative;
     min-height: 300px;
     background: hsl(0, 0%, 0%);
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(/picture/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(asset\ 37.jpeg);
 }
 
 .example-card:hover {
